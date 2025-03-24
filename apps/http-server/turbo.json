@@ -1,0 +1,7 @@
+{ "extends": ["//"],
+    "tasks": {
+      "build": {
+        "outputs": ["apps/http-server/dist/**"]
+      }
+    }
+  }
